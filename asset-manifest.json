@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Aztec-Network-Guides/static/css/main.e1851d3d.css",
-    "main.js": "/Aztec-Network-Guides/static/js/main.54be89dd.js",
+    "main.js": "/Aztec-Network-Guides/static/js/main.368bd878.js",
     "static/js/453.90866761.chunk.js": "/Aztec-Network-Guides/static/js/453.90866761.chunk.js",
     "index.html": "/Aztec-Network-Guides/index.html",
     "main.e1851d3d.css.map": "/Aztec-Network-Guides/static/css/main.e1851d3d.css.map",
-    "main.54be89dd.js.map": "/Aztec-Network-Guides/static/js/main.54be89dd.js.map",
+    "main.368bd878.js.map": "/Aztec-Network-Guides/static/js/main.368bd878.js.map",
     "453.90866761.chunk.js.map": "/Aztec-Network-Guides/static/js/453.90866761.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1851d3d.css",
-    "static/js/main.54be89dd.js"
+    "static/js/main.368bd878.js"
   ]
 }
